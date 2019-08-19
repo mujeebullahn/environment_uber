@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginx
+    git: git@github.com:mujeebullahn/nginx_uber.git
+    revision: 872089429200754334c626d9fd4e1cf8d8200e38
+  python
+    git: git@github.com:mujeebullahn/python_uber.git
+    revision: eee9b9b7d3db36c2d4c568cec2872d18c0a78060
+
+GRAPH
+  nginx (0.1.0)
+  python (0.1.0)
